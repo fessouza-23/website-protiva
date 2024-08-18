@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website-protiva/static/css/main.2c53f556.css",
+    "main.js": "/website-protiva/static/js/main.d5ef867e.js",
+    "static/js/787.9fa68fea.chunk.js": "/website-protiva/static/js/787.9fa68fea.chunk.js",
+    "static/media/color-sharp.png": "/website-protiva/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/website-protiva/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/website-protiva/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/pc-im3.jpeg": "/website-protiva/static/media/pc-im3.2e322d1f83e1a7cdd345.jpeg",
+    "static/media/pc-im.jpeg": "/website-protiva/static/media/pc-im.26588d9b6ba6dcf68a1d.jpeg",
+    "static/media/header-img.svg": "/website-protiva/static/media/header-img.e82d467959945981bcf77b0b2b699678.svg",
+    "static/media/CentraNo2-Bold.ttf": "/website-protiva/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/website-protiva/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/pc-img2.jpeg": "/website-protiva/static/media/pc-img2.c53791b41e309c400c31.jpeg",
+    "static/media/CentraNo2-Book.ttf": "/website-protiva/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/website-protiva/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/website-protiva/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/website-protiva/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/website-protiva/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/website-protiva/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/test.svg": "/website-protiva/static/media/test.129f5e5bed74683cf1dae8ae522cc686.svg",
+    "static/media/logo.svg": "/website-protiva/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon1.svg": "/website-protiva/static/media/nav-icon1.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/website-protiva/index.html",
+    "static/media/nav-icon3.svg": "/website-protiva/static/media/nav-icon3.985e5156f6ed0c8de0a024043f8fcfc9.svg",
+    "static/media/arrow2.svg": "/website-protiva/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/website-protiva/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/website-protiva/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.2c53f556.css.map": "/website-protiva/static/css/main.2c53f556.css.map",
+    "main.d5ef867e.js.map": "/website-protiva/static/js/main.d5ef867e.js.map",
+    "787.9fa68fea.chunk.js.map": "/website-protiva/static/js/787.9fa68fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c53f556.css",
+    "static/js/main.d5ef867e.js"
+  ]
+}
